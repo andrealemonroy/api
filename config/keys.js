@@ -1,6 +1,8 @@
 module.exports = {
-    mongoURI: 'mongodb+srv://diewoo:diewoo@cluster0-mxnfv.mongodb.net/happyland?retryWrites=true&w=majority',
+    mongoURI: 'mongodb+srv://andreamonroy:andreamonroy@cluster0-1abrf.gcp.mongodb.net/happyland?retryWrites=true&w=majority',
     smtpServer: 'smtp.gmail.com',
     userSmtp: 'noreply@happyland.com.pe',
     passSmtp: 'beQaHDpj'
 };
+
+
